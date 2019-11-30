@@ -1,6 +1,8 @@
 # MSci-Project
 Code related to my Master's project to use deep learning to improve the resolution of a particle detector. Took waveform data produced from a particle detector and used machine learning algorithms to verify whether the CNN/DF could reconstruct the position of the particle within the detector.
 
+PPT2 is the summative presentation I gave for my viva.
+
 ActivationsPlotter - Plots the activations of a hidden layer in the CNN.
 
 CNN2layer - The CNN code used for the project. It runs the network and saves the data for further analysis.
